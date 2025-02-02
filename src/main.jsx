@@ -24,7 +24,10 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       afterSignInUrl="/jobs"
       afterSignUpUrl="/onboarding"
       afterSignOutUrl="/"
-      navigate={(to) => window.location.href = to}
+      navigate={(to) => {
+        // Use window.location.href for hard redirects
+        window.location.href = `${window.location.origin}${to}`;
+      }}
     >
       <App />
     </ClerkProvider>

@@ -22,4 +22,9 @@
 [[redirects]]
   from = "/onboarding/*"
   to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/jobs/*"
+  to = "/index.html"
   status = 200 
