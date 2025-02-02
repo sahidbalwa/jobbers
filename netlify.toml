@@ -1,0 +1,25 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Add specific redirects for auth routes
+[[redirects]]
+  from = "/sign-in/*"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/sign-up/*"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/onboarding/*"
+  to = "/index.html"
+  status = 200 
