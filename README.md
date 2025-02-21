@@ -1,4 +1,4 @@
-# 🚀 Jobber - Job Portal  
+# 🚀 Jobbers - Job Portal  
 
 ## 📌 Overview  
 Jobber is a feature-rich job portal that connects recruiters with job seekers. Built using **React.js, Supabase, and Clerk authentication**, it provides a seamless job-searching experience with intuitive functionalities.   
