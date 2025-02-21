@@ -1,4 +1,4 @@
-# 🚀 Jobber - AI-Powered Job Portal  
+# 🚀 Jobber - Job Portal  
 
 ## 📌 Overview  
 Jobber is a feature-rich job portal that connects recruiters with job seekers. Built using **React.js, Supabase, and Clerk authentication**, it provides a seamless job-searching experience with intuitive functionalities.   
@@ -10,11 +10,13 @@ Jobber is a feature-rich job portal that connects recruiters with job seekers. B
 ✅ Search jobs by **title, city, or company**  
 ✅ Save or unsave job listings  
 ✅ Apply for jobs directly  
+✅ Uplaod resume
 
 ### **For Recruiters**  
 ✅ Upload new job listings  
 ✅ Open and close hiring statuses  
 ✅ Delete job postings  
+✅ Download resumes 
 
 ### **Authentication & Storage**  
 ✅ **Google Authentication** using Clerk  
@@ -40,14 +42,20 @@ Jobber is a feature-rich job portal that connects recruiters with job seekers. B
 ## 📽️ Demo (Screen Shots)  
 🎥 Watch how it works!  
 ![](/screenshots/Screenshot%202024-12-28%20213757.png)
+
 ![](/screenshots/Screenshot%202024-12-28%20213823.png)
+
 ![](/screenshots/Screenshot%202024-12-28%20213932.png)
+
 ![](/screenshots/Screenshot%202024-12-28%20214107.png)
+
 ![](/screenshots/Screenshot%202024-12-28%20214141.png)
+
 ![](/screenshots/Screenshot%202024-12-28%20214455.png)
+
 ![](/screenshots/Screenshot%202024-12-28%20214718.png)
 
-![](/screenshots/Screenshot%202024-12-28%20220737.png)
+
 ---
 
 ## 🚀 Getting Started  
